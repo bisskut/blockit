@@ -22,3 +22,7 @@ betrayal.io
 
 xsolla.com
 static.xsolla.com
+
+crazygames.com
+files.crazygames.com
+gameframe.crazygames.com
