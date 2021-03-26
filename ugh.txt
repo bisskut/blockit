@@ -26,3 +26,6 @@ static.xsolla.com
 crazygames.com
 files.crazygames.com
 gameframe.crazygames.com
+
+servers.end.gg
+end.gg
