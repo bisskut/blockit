@@ -16,3 +16,9 @@ venge.io
 invite.veng.io
 
 play.google.com
+play.googleapis.com
+
+betrayal.io
+
+xsolla.com
+static.xsolla.com
