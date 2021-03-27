@@ -29,3 +29,5 @@ gameframe.crazygames.com
 
 servers.end.gg
 end.gg
+
+artsology.com
