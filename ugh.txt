@@ -37,11 +37,12 @@ gameframe.crazygames.com
 *.adinplay.com
 topgamedata.com
 
+hole-io.com
 
 
 servers.end.gg
 end.gg
-"*.end.gg
+*.end.gg
 
 artsology.com
 
