@@ -54,7 +54,10 @@ playminigame.ru
 warbrokers.io
 stats.warbrokers.io
 
+yt4.ggpht.com
+
 *.ggpht.com
+
 
 yt.*
 
