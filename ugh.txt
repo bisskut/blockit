@@ -40,6 +40,8 @@ topgamedata.com
 hole-io.com
 
 
+
+
 servers.end.gg
 end.gg
 *.end.gg
@@ -51,6 +53,10 @@ playminigame.ru
 
 warbrokers.io
 stats.warbrokers.io
+
+*.ggpht.com
+
+yt.*
 
 supremacy1914.com
 static.supremacy1914.com
