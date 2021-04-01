@@ -8,33 +8,33 @@ ytimg.l.google.com
 ytimg.com
 
 youtu.be
-*youtu*
+
+
 
 roblox.com
 web.roblox.com
-*roblox*
 
 venge.io
 invite.veng.io
-*.veng.io
+
 
 play.google.com
 play.googleapis.com
 
 betrayal.io
-*.betrayal.io
+
 
 xsolla.com
 static.xsolla.com
-*.xsolla.com
+
 
 crazygames.com
 www.crazygames.com
 files.crazygames.com
 gameframe.crazygames.com
-*.crazy games.com
 
-*.adinplay.com
+
+adinplay.com
 topgamedata.com
 
 hole-io.com
@@ -44,7 +44,6 @@ hole-io.com
 
 servers.end.gg
 end.gg
-*.end.gg
 
 artsology.com
 
@@ -55,14 +54,11 @@ warbrokers.io
 stats.warbrokers.io
 
 yt4.ggpht.com
+ggpht.com
 
-*.ggpht.com
 
-
-yt.*
 
 supremacy1914.com
 static.supremacy1914.com
 congs5.supremacy1914.com
-*.supremacy1914.com
 conflictnations.com
