@@ -34,6 +34,11 @@ files.crazygames.com
 gameframe.crazygames.com
 *.crazy games.com
 
+*.adinplay.com
+topgamedata.com
+
+
+
 servers.end.gg
 end.gg
 "*.end.gg
