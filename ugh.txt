@@ -62,6 +62,9 @@ ggpht.com
 api-www.kgoma.com
 kgoma.com
 
+cloudfront.tubi.video
+tubitv.com
+
 supremacy1914.com
 static.supremacy1914.com
 congs5.supremacy1914.com
